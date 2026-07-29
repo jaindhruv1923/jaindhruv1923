@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6C63FF&height=220&section=header&text=Dhruv%20Jain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20ML%20%2B%20BI%20%2B%20SQL&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Turning+messy+data+into+decisions;Building+end-to-end+ML+%2B+BI+pipelines;Final+Year+B.Tech+CSE+(AI+%26+Data+Science)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Turning+messy+data+into+decisions;Building+end-to-end+ML+%2B+BI+pipelines;" alt="Typing SVG" />
 
 <br/>
 
