@@ -1,324 +1,299 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6C63FF&height=220&section=header&text=Dhruv%20Jain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20ML%20%2B%20BI%20%2B%20SQL&descAlignY=55&descSize=20" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1B1B2F,100:C9971F&height=180&section=header&text=GRILLI&fontSize=58&fontColor=E6E8EF&animation=fadeIn&fontAlignY=38&desc=Restaurant%20Website%20%2B%20Live%20Reservation%20System&descAlignY=58&descSize=20)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Turning+messy+data+into+decisions;Building+end-to-end+ML+%2B+BI+pipelines;" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/jaindhruv1923"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jaindhruv1923@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="tel:+919911850506"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="./assets/DataAnalystResume_DhruvJain.pdf"><img src="https://img.shields.io/badge/Resume-6C63FF?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=jaindhruv1923&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
-
-</div>
-
-<br/>
-
-## 👋 Hey, I'm Dhruv
-
-<table>
-<tr>
-<td width="27%" align="center" valign="middle">
-
-<img src="./assets/profile.jpg" width="230" style="border-radius:50%"/>
-
-</td>
-<td width="73%" valign="middle">
-
-```
-     ☁️  ─────────────────────────────────────────────  ☁️
-      "Hey! I'm a final-year CSE (AI & Data Science)
-       student who turns messy, real-world data into
-       dashboards and models people actually use.
-
-       I don't build 'toy' projects on clean, fake
-       datasets — I scrape real data, wrangle the
-       mess, and ship the full pipeline: SQL → Python
-       → ML models → live dashboards.
-
-       Currently interning as a Data Analyst, actively
-       looking for my next Data Analytics role. Let's
-       talk data! 👇"
-     ☁️  ─────────────────────────────────────────────  ☁️
-```
-
-</td>
-</tr>
-</table>
-
-### 🧠 In short — what I'm good at
-
-- 🧹 **Data Wrangling** — cleaning messy, real-scraped data into analysis-ready datasets
-- 🤖 **Predictive Modeling** — regression, classification, clustering, market-basket & anomaly detection
-- 📊 **Dashboards that people can query** — Streamlit + Power BI + live SQL labs, not just static charts
-- 🗄️ **SQL deep enough to matter** — CTEs, window functions, stored procedures, triggers, transactions
-- 🎯 **Translating numbers into decisions** — every model I build ends with "so what should you do about it"
-
-<br/>
-
-## 🎓 Education
-
-**Bachelor of Technology, Computer Science Engineering (AI & Data Science)** — *2023 – 2027*
-BML Munjal University, Gurugram · *Final Year*
-Relevant Coursework: Machine Learning · Database Management Systems · Data Structures & Algorithms · Statistics
-
-<br/>
-
-## 💼 Experience
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Data Analyst Intern (Remote)**
-*Udaghosh Social Welfare Society* · July 2026 – Present
-
-- Collect, clean & analyze data from multiple sources to surface trends and business-relevant insights
-- Build interactive dashboards and automate recurring reporting workflows in Excel, Power BI, SQL & Python
-- Perform statistical analysis and monitor KPIs to support stakeholder decision-making
-
-</td>
-<td width="50%" valign="top">
-
-**Business Development Intern (Remote)**
-*Contentora Media* · July 2026 – Present
-
-- Research and identify potential clients, advertisers, sponsors & strategic partners; lead generation via LinkedIn, email & networking
-- Support pitch decks, sales presentations & partnership proposals; maintain CRM data
-- Conduct competitor/industry analysis and report on outreach performance & sales pipeline
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<br/>
-
-### 🛒 Profitara — Retail BI & Customer Analytics Platform
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-An end-to-end **retail business intelligence pipeline** built on 10,000 transactions — 4,918 orders across 1,448 customers, spanning 9 categories and 17 sub-categories. Generated **Rs. 66.95L** in revenue at a **4.15%** margin.
-
-The platform goes beyond dashboards — it includes predictive modeling, customer segmentation, and anomaly detection, all wired into a live 13-page **Streamlit** app with an in-browser **DuckDB SQL Lab** so recruiters/reviewers can query the data themselves.
-
-**What's inside:**
-- 🎯 **Customer Lifetime Value** — Random Forest regressor, **R² = 0.930**
-- 📉 **Churn Prediction** — Logistic Regression, **AUC = 0.91**, 85% accuracy, flags 361 at-risk customers (24.9% of base) for win-back campaigns
-- 🧩 **RFM + K-Means Segmentation** — silhouette score 0.611, isolates 119 high-value "Champion" customers
-- 🛍️ **Market Basket Analysis** — Apriori algorithm surfacing 52 actionable cross-sell rules
-- 🚨 **Anomaly Detection** — Isolation Forest for discount-abuse patterns
-- 📈 **Demand Forecasting** — Holt-Winters time series model
-
-</td>
-<td width="35%" valign="top">
-
-**Tech Stack**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-
-<br/><br/>
-
-**Key Results**
-
-| Metric | Value |
-|---|---|
-| Revenue Analyzed | Rs. 66.95L |
-| CLV Model R² | 0.930 |
-| Churn AUC | 0.91 |
-| Cross-sell Rules | 52 |
-
-<br/>
-
-<a href="https://github.com/jaindhruv1923/Project-Profitara-Retail-BI-Pipeline">
-<img src="https://img.shields.io/badge/🔗_View_Repository-6C63FF?style=for-the-badge&logoColor=white" width="100%"/>
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&duration=3000&pause=1200&color=C9971F&center=true&vCenter=true&width=650&lines=Static+template+%E2%86%92+full-stack+reservation+system;Node.js+%2B+Express+REST+API+%C2%B7+5+endpoints;MongoDB-backed+booking+persistence;6+bugs+fixed+%C2%B7+1+new+section+built+from+scratch;%22Our+Chefs%22+%E2%80%94+custom-built%2C+not+part+of+the+template" alt="Typing SVG" />
 </a>
 
-</td>
-</tr>
-</table>
+<br/>
+
+[![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express.js-REST_API-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Reservation_Store-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![License](https://img.shields.io/badge/License-MIT-2F7D4F?style=for-the-badge)](LICENSE)
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaindhruv1923/grilli-fullstack-restaurant-reservation-system)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaindhruv1923)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-C9971F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaindhruv1923@gmail.com)
+
+**Built by [Dhruv Jain](https://github.com/jaindhruv1923)** · B.Tech CSE (AI & Data Science), BML Munjal University
+
+</div>
 
 <br/>
 
-### 🕵️ Naukri Saaf — Ghost Job Listing Detection Platform
+## 📖 Table of Contents
 
-<table>
-<tr>
-<td width="65%" valign="top">
+- [What this is](#-what-this-is)
+- [Key results](#-key-results)
+- [Screenshots](#-screenshots)
+- [Architecture](#-architecture)
+- [What's inside](#-whats-inside)
+- [Reservation API](#-reservation-api)
+- [Tech stack](#-tech-stack)
+- [Quickstart](#-quickstart)
+- [Repo structure](#-repo-structure)
+- [Honest limitations](#-honest-limitations)
+- [Roadmap](#-roadmap)
+- [Connect](#-connect)
 
-A machine learning platform that detects **fake / "ghost" job postings** — listings companies keep live without any intent to hire — using **2,851 real job listings** scraped via Apify from LinkedIn, Indeed, and Glassdoor.
-
-Since real-world data has no ground-truth ghost labels, the project uses a **weak-supervision labeling scheme** to generate training labels, then engineers **73 features** capturing employer behavior, posting language, and cross-platform patterns.
-
-**What's inside:**
-- 🏆 **5 classifiers benchmarked** — Gradient Boosting, Stacking Ensemble, Random Forest, Logistic Regression, MLP; best model (GBM) achieves **0.716 AUC / 0.527 F1**
-- 🔍 **Explainability with SHAP** — top predictive features: `days_live`, `employer_repost_count`, `cross_platform_duplicate_flag`, `contact_bypass_flag`, `urgency_language_score`
-- 📊 **29.3%** of scraped listings flagged as likely ghost postings
-- 🗄️ Full **MySQL pipeline** (`naukri_saaf_COMPLETE.sql`) — DDL, all join types, CTEs, window functions, stored procedures, triggers, transactions
-- 🧩 **Chrome extension** that runs live on Indeed job pages, extracting posting signals in-browser and flagging likely ghost listings in real time
-
-</td>
-<td width="35%" valign="top">
-
-**Tech Stack**
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Apify-00C0A3?style=flat-square"/>
-<img src="https://img.shields.io/badge/Chrome_Ext-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
 
-<br/><br/>
+## 🎯 What this is
 
-**Key Results**
+> Grilli started as a **static restaurant landing page template** — good-looking
+> frontend, but a reservation form that didn't actually submit anywhere and a
+> handful of broken internal links. This project turns it into a **working
+> full-stack product**: a real Node.js + Express REST API, a MongoDB-backed
+> reservation store, and a brand-new "Our Chefs" section that didn't exist in
+> the original template at all.
 
-| Metric | Value |
+The goal wasn't to redesign the frontend from scratch — it was to take a
+template that *looked* production-ready and make it actually behave like one:
+fix what was broken, wire the form to a real backend, and add a section the
+original was missing.
+
+<br/>
+
+## 🏆 Key results
+
+<div align="center">
+
+| Area | Result |
+|:---|:---:|
+| 🐛 **Template bugs fixed** | ![Bugs](https://img.shields.io/badge/6_bugs_fixed-broken_links_%2B_dead_form-C9971F?style=flat-square) |
+| 🧑‍🍳 **New section built** | ![Section](https://img.shields.io/badge/%22Our_Chefs%22-built_from_scratch-2F7D4F?style=flat-square) |
+| 🔌 **REST API** | ![Endpoints](https://img.shields.io/badge/5_endpoints-Node.js_%2B_Express-339933?style=flat-square) |
+| 🗄️ **Database** | ![DB](https://img.shields.io/badge/MongoDB-reservation_persistence-47A248?style=flat-square) |
+
+</div>
+
+<br/>
+
+## 📸 Screenshots
+
+**🏠 Homepage — Hero**
+
+<p align="center"><img src="preview_intro.png" width="85%"/></p>
+<p align="center"><i>"Where every flavor tells a story" hero slide with top nav and "Find a Table" CTA</i></p>
+
+<br/>
+
+**📖 Our Story**
+
+<p align="center"><img src="our_story.png" width="85%"/></p>
+<p align="center"><i>About section — story, gallery collage, and "Since 1950" badge</i></p>
+
+<br/>
+
+**🍽️ We Offer Top Notch**
+
+<p align="center"><img src="what_we_offer.png" width="85%"/></p>
+<p align="center"><i>Breakfast / Appetizers / Drinks category highlights</i></p>
+
+<br/>
+
+**📋 Delicious Menu**
+
+<p align="center"><img src="menu.png" width="85%"/></p>
+<p align="center"><i>Menu preview with pricing pulled from the template's menu data</i></p>
+
+<br/>
+
+**🧑‍🍳 Our Chefs** — *built from scratch, not part of the original template*
+
+<p align="center"><img src="our_chefs.png" width="85%"/></p>
+<p align="center"><i>New "Meet the Team" section added on top of the existing design language</i></p>
+
+<br/>
+
+**📅 Reservation Form — Live Submission**
+
+<p align="center"><img src="online_reservation.png" width="85%"/></p>
+<p align="center"><i>Reservation form successfully submitting to the Express API — "Table booked successfully!" confirmation shown</i></p>
+
+<br/>
+
+**🗄️ Stored Reservation — MongoDB Atlas**
+
+<p align="center"><img src="db-record.png" width="85%"/></p>
+<p align="center"><i>The submitted reservation persisted as a real document in the <code>reservations</code> collection on Atlas — name, phone, guests, date, time, message, and status all saved correctly</i></p>
+
+<br/>
+
+**⚓ Footer**
+
+<p align="center"><img src="footer.png" width="85%"/></p>
+<p align="center"><i>Footer with contact details, newsletter subscribe, and social links</i></p>
+
+<br/>
+
+## 🏗️ Architecture
+
+```mermaid
+flowchart LR
+    U["🧑 Visitor"] --> FE["🖥️ Frontend\nHTML / CSS / JS"]
+    FE -- "Reservation form submit" --> API["🔌 Express REST API\n5 endpoints"]
+    API --> DB[("🗄️ MongoDB\nreservations collection")]
+    API --> FE
+
+    style FE fill:#1B1B2F,color:#fff
+    style API fill:#000000,color:#fff
+    style DB fill:#47A248,color:#fff
+```
+
+<br/>
+
+## 📦 What's inside
+
+| Part | What it does |
 |---|---|
-| Listings Analyzed | 2,851 |
-| Features Engineered | 73 |
-| Best Model AUC | 0.716 |
-| Ghost Postings Flagged | 29.3% |
+| 🏠 **Landing page** | Menu, gallery, testimonials, about — from the original template |
+| 🧑‍🍳 **Our Chefs** | New section built from scratch — not present in the original template |
+| 📅 **Reservation form** | Frontend form wired to the new backend (was a dead submit handler before) |
+| 🔌 **Express API** | 5 REST endpoints handling reservation create/read/update logic |
+| 🗄️ **MongoDB store** | Persists every reservation submitted through the form (verified live on Atlas) |
 
 <br/>
 
-<a href="https://github.com/jaindhruv1923/Project-Naukri-Saaf-Job-Listings-Analysis">
-<img src="https://img.shields.io/badge/🔗_View_Repository-6C63FF?style=for-the-badge&logoColor=white" width="100%"/>
+## 🔌 Reservation API
+
+<details>
+<summary><b>Click to expand — replace with your actual route list before publishing</b></summary>
+<br/>
+
+The backend exposes 5 REST endpoints for the reservation flow. Fill in the
+exact routes from your `routes/` folder — for example:
+
+| Method | Route | Purpose |
+|---|---|---|
+| `POST` | `/api/reservations` | Create a new reservation |
+| `GET` | `/api/reservations` | List all reservations |
+| `GET` | `/api/reservations/:id` | Get a single reservation |
+| `PUT` | `/api/reservations/:id` | Update a reservation |
+| `DELETE` | `/api/reservations/:id` | Cancel a reservation |
+
+*(Update this table to match the actual routes in your codebase — don't leave
+placeholder paths in the final version.)*
+
+</details>
+
+<br/>
+
+## 🛠️ Tech stack
+
+<div align="center">
+
+| Layer | Tools |
+|---|---|
+| **Frontend** | HTML5 · CSS3 · JavaScript |
+| **Backend** | Node.js · Express.js |
+| **Database** | MongoDB Atlas |
+| **API style** | REST — 5 endpoints |
+| **Base template** | [Grilli by codewithsadee](https://github.com/codewithsadee/grilli) (frontend only — backend is original work) |
+
+</div>
+
+<br/>
+
+## 🚀 Quickstart
+
+```bash
+# Clone the repo
+git clone https://github.com/jaindhruv1923/grilli-fullstack-restaurant-reservation-system.git
+cd grilli-fullstack-restaurant-reservation-system
+
+# Install backend dependencies
+cd backend
+npm install
+
+# Set up environment variables
+cp .env.example .env
+# Add your MongoDB connection string to .env
+
+# Run the server
+npm start
+```
+
+Then open the frontend in your browser (or serve it via a static file server)
+and submit a test reservation to confirm it's saved in MongoDB.
+
+<br/>
+
+## 📁 Repo structure
+
+```
+grilli/
+├── frontend/                # Static site — HTML, CSS, JS
+│   ├── index.html
+│   ├── assets/
+│   └── ...
+├── backend/                 # Express server + API routes
+│   ├── server.js
+│   ├── routes/
+│   │   └── reservations.js
+│   ├── models/
+│   │   └── Reservation.js
+│   └── ...
+├── .env.example
+├── LICENSE
+└── README.md
+```
+
+*(Update this to match your actual folder layout — don't leave it generic in
+the final version.)*
+
+<br/>
+
+## ⚠️ Honest limitations
+
+- The reservation system does **not** send confirmation emails/SMS — it only
+  persists the booking to MongoDB.
+- No admin dashboard yet — reservations are stored but not visualized or
+  manageable from a UI.
+- No authentication — the API currently has no protection against spam
+  submissions.
+- Base frontend design is from the [codewithsadee Grilli template](https://github.com/codewithsadee/grilli); the "Our Chefs" section and the entire backend are original work.
+
+<br/>
+
+## 🗺️ Roadmap
+
+- [ ] Add email/SMS confirmation on successful reservation
+- [ ] Build a simple admin view to see/manage bookings
+- [ ] Add basic rate-limiting / spam protection on the API
+- [x] Fix all broken links and the dead reservation form
+- [x] Build "Our Chefs" section from scratch
+- [x] Build working Express + MongoDB backend
+
+<br/>
+
+## 📫 Connect
+
+<div align="center">
+
+Open to Data Analyst / Business Analyst roles and collaborations — feel free to reach out.
+
+<a href="https://github.com/jaindhruv1923/grilli-fullstack-restaurant-reservation-system">
+  <img src="https://img.shields.io/badge/GitHub-Project_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/jaindhruv1923">
+  <img src="https://img.shields.io/badge/LinkedIn-jaindhruv1923-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:jaindhruv1923@gmail.com">
+  <img src="https://img.shields.io/badge/Email-jaindhruv1923@gmail.com-C9971F?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🧰 Full Skill Set
-
-<div align="center">
-
-**🧩 Core Competencies**
-<br/>
-<img src="https://img.shields.io/badge/Data_Mining-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Wrangling_%26_Cleaning-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/ETL-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Predictive_Modeling-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Statistical_Analysis-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Visualization-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Business_Intelligence-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Report_Automation-6C63FF?style=flat-square"/>
-
-<br/><br/>
-
-**💻 Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-
-<br/><br/>
-
-**🗄️ Databases**
-<br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"/>
-
-<br/><br/>
-
-**📈 Analytics & BI**
-<br/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel_(Pivot,_Solver,_Forecast)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-<br/><br/>
-
-**🤖 ML & Data Science**
-<br/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SHAP-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Statsmodels-2C3E50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/mlxtend-336791?style=for-the-badge"/>
-
-<br/><br/>
-
-**🖥️ Dashboarding & Visualization**
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-<br/><br/>
-
-**🛠️ Tools & Platforms**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/openpyxl-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apify-00C0A3?style=for-the-badge"/>
-
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jaindhruv1923&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaindhruv1923&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaindhruv1923&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaindhruv1923&theme=tokyo-night&hide_border=true" width="95%"/>
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jaindhruv1923&theme=darkhub&no-frame=true&row=1&column=6"/>
-</div>
-
-<br/>
-
-## 📜 Certifications
-
-- 🏅 **Microsoft Power BI Data Analyst (PL-300 Prep)** — Microsoft Learn
-- 🏅 **SQL Certificate** — HackerRank
-
-<br/>
-
 <div align="center">
 
-### 💬 Let's Connect
+**[Dhruv Jain](https://github.com/jaindhruv1923)** · [LinkedIn](https://www.linkedin.com/in/jaindhruv1923) · [jaindhruv1923@gmail.com](mailto:jaindhruv1923@gmail.com)
 
-Open to **Data Analyst / Data Analytics** internship opportunities — always happy to talk data, dashboards, or ML.
-
-<a href="https://www.linkedin.com/in/jaindhruv1923"><img src="https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jaindhruv1923@gmail.com"><img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2E9EF7&height=100&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1B1B2F,100:C9971F&height=100&section=footer)
 
 </div>
