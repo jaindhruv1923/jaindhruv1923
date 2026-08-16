@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1B1B2F,50:2E2E52,100:C9971F&height=220&section=header&text=DHRUV%20JAIN&fontSize=64&fontColor=E6E8EF&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%C2%B7%20AI%20%26%20Data%20Science%20Student&descAlignY=54&descSize=18)
+![header](./assets/header.svg)
 
 </div>
 
@@ -182,6 +182,10 @@ Took a static restaurant landing-page template and turned it into a working full
 
 <br/><br/>
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jaindhruv1923&bg_color=0D1117&color=C9971F&line=C9971F&point=C9971F&area=true&area_color=C9971F&hide_border=true&custom_title=Contribution%20Activity" />
+
+<br/><br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=jaindhruv1923&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" />
 
 </div>
@@ -224,6 +228,6 @@ Took a static restaurant landing-page template and turned it into a working full
 
 <br/><br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1B1B2F,50:2E2E52,100:C9971F&height=100&section=footer)
+![footer](./assets/footer.svg)
 
 </div>
