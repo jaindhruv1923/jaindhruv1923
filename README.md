@@ -1,10 +1,32 @@
 <div align="center">
 
-<img src="./assets/profile.jpg" width="150" style="border-radius:50%;" alt="Dhruv Jain"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1B1B2F,50:2E2E52,100:C9971F&height=220&section=header&text=DHRUV%20JAIN&fontSize=64&fontColor=E6E8EF&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%C2%B7%20AI%20%26%20Data%20Science%20Student&descAlignY=54&descSize=18)
 
-# DHRUV JAIN
+</div>
 
-### Data Analyst · AI & Data Science Student
+<table>
+<tr>
+<td width="230" align="center">
+<img src="./assets/profile.jpg" width="200" style="border-radius:50%;border:3px solid #C9971F;" alt="Dhruv Jain"/>
+</td>
+<td>
+
+```
+👋  Hi, I'm Dhruv.
+
+I build analytics platforms end to end —
+scraping, SQL, trained ML models, dashboards,
+and full backends where the project needs one.
+
+Before anything ships, I re-check every number
+against the notebook or query that produced it.
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=17&duration=3000&pause=1200&color=C9971F&center=true&vCenter=true&width=650&lines=I+check+my+own+numbers+before+anyone+else+has+to;3+end-to-end+builds+%C2%B7+ML+%C2%B7+SQL+%C2%B7+full-stack;Traceability+first%2C+impressive-sounding+second" alt="Typing SVG" />
 
@@ -14,7 +36,6 @@
 [![Email](https://img.shields.io/badge/Email-Reach_Out-C9971F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaindhruv1923@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jaindhruv1923-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaindhruv1923)
 [![Resume](https://img.shields.io/badge/Resume-Download-2F7D4F?style=for-the-badge&logo=googledocs&logoColor=white)](./assets/Dhruv_Jain_Resume.pdf)
-[![Phone](https://img.shields.io/badge/Phone-%2B91_99118_50506-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919911850506)
 
 📍 Delhi, India
 
@@ -43,7 +64,7 @@
 
 Final-year **B.Tech CSE (AI & Data Science)** student at BML Munjal University, Gurugram (2023–2027).
 
-Currently a **Data Analyst Intern** at Udaghosh Social Welfare Society and a **Business Development Intern** at Contentora Media — both remote — while shipping full end-to-end personal projects on the side: real scraped/transactional data, trained ML models, dashboards, and full backends where it fits.
+Currently a **Data Analyst Intern** at Udaghosh Social Welfare Society and a **Business Development Intern** at Contentora Media — both remote — while shipping full end-to-end personal projects on the side.
 
 Looking for **Data Analyst / Business Analyst** roles where the job is turning messy real data into decisions someone actually acts on.
 
@@ -60,6 +81,10 @@ Across my own projects I've caught and fixed real mismatches before publishing: 
 ## 🧰 Skills
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,r,mongodb,postgres,nodejs,express,git,github,vscode&theme=dark" />
+
+<br/><br/>
 
 | Category | Stack |
 |---|---|
@@ -150,6 +175,14 @@ Took a static restaurant landing-page template and turned it into a working full
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=jaindhruv1923&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=C9971F&icon_color=C9971F" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaindhruv1923&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C9971F" />
 
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=jaindhruv1923&theme=dark&hide_border=true&background=0D1117&ring=C9971F&fire=C9971F&currStreakLabel=C9971F" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=jaindhruv1923&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" />
+
 </div>
 
 <br/>
@@ -187,5 +220,9 @@ Took a static restaurant landing-page template and turned it into a working full
 <a href="https://www.linkedin.com/in/jaindhruv1923"><img src="https://img.shields.io/badge/LinkedIn-jaindhruv1923-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:jaindhruv1923@gmail.com"><img src="https://img.shields.io/badge/Email-jaindhruv1923@gmail.com-C9971F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/jaindhruv1923"><img src="https://img.shields.io/badge/GitHub-jaindhruv1923-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1B1B2F,50:2E2E52,100:C9971F&height=100&section=footer)
 
 </div>
