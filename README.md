@@ -182,9 +182,11 @@ Took a static restaurant landing-page template and turned it into a working full
 
 <br/><br/>
 
+### 📊 Contribution Activity
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jaindhruv1923&bg_color=0D1117&color=C9971F&line=C9971F&point=C9971F&area=true&area_color=C9971F&hide_border=true&custom_title=Contribution%20Activity" />
 
-<br/><br/>
+<sub><i>🐍 Live below — the same contribution data, eaten by a snake, auto-regenerated every 24h</i></sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaindhruv1923/jaindhruv1923/output/github-contribution-grid-snake-dark.svg" />
