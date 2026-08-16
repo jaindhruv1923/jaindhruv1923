@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](./assets/header.svg)
+![header](./header.svg)
 
 </div>
 
@@ -228,6 +228,6 @@ Took a static restaurant landing-page template and turned it into a working full
 
 <br/><br/>
 
-![footer](./assets/footer.svg)
+![footer](./footer.svg)
 
 </div>
