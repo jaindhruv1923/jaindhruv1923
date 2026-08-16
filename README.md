@@ -36,6 +36,7 @@ against the notebook or query that produced it.
 [![Email](https://img.shields.io/badge/Email-Reach_Out-C9971F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaindhruv1923@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jaindhruv1923-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaindhruv1923)
 [![Resume](https://img.shields.io/badge/Resume-Download-2F7D4F?style=for-the-badge&logo=googledocs&logoColor=white)](./assets/Dhruv_Jain_Resume.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-6C3EB6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jaindhruv1923.github.io/initial_portfolio_wesbite/)
 
 📍 Delhi, India
 
@@ -106,8 +107,8 @@ Across my own projects I've caught and fixed real mismatches before publishing: 
 ### 📊 Profitara — Retail BI & Customer Analytics Platform
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jaindhruv1923/Project-Profitara-Retail-BI-Pipeline/main/screenshots/02_health_scorecard.png" width="48%"/>
-  <img src="https://raw.githubusercontent.com/jaindhruv1923/Project-Profitara-Retail-BI-Pipeline/main/screenshots/04_churn_distribution.png" width="48%"/>
+  <img src="https://raw.githubusercontent.com/jaindhruv1923/Project-Profitara-Retail-BI-Pipeline/main/02_health_scorecard.png" width="48%"/>
+  <img src="https://raw.githubusercontent.com/jaindhruv1923/Project-Profitara-Retail-BI-Pipeline/main/04_churn_distribution.png" width="48%"/>
 </p>
 
 [![Repo](https://img.shields.io/badge/Repo-View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jaindhruv1923/Project-Profitara-Retail-BI-Pipeline)
@@ -128,8 +129,8 @@ End-to-end retail analytics pipeline on a 10,000-row India quick-commerce transa
 ### 🕵️ Naukri Saaf — Ghost Job Listing Detection Platform
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jaindhruv1923/Project-Naukri-Saaf-Job-Listings-Analysis/main/screenshots/overview.png" width="48%"/>
-  <img src="https://raw.githubusercontent.com/jaindhruv1923/Project-Naukri-Saaf-Job-Listings-Analysis/main/screenshots/extension_panel.png" width="48%"/>
+  <img src="https://raw.githubusercontent.com/jaindhruv1923/Project-Naukri-Saaf-Job-Listings-Analysis/main/media4.png" width="48%"/>
+  <img src="https://raw.githubusercontent.com/jaindhruv1923/Project-Naukri-Saaf-Job-Listings-Analysis/main/Screenshot_2026-07-21_142519.png" width="48%"/>
 </p>
 
 [![Repo](https://img.shields.io/badge/Repo-View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jaindhruv1923/Project-Naukri-Saaf-Job-Listings-Analysis)
@@ -150,8 +151,8 @@ ML pipeline on 3,000 real listings scraped from LinkedIn, Indeed, and Glassdoor 
 ### 🍝 Grilli — Full-Stack Restaurant Reservation System
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jaindhruv1923/grilli-fullstack-restaurant-reservation-system/main/screenshots/hero.png" width="48%"/>
-  <img src="https://raw.githubusercontent.com/jaindhruv1923/grilli-fullstack-restaurant-reservation-system/main/screenshots/reservation.png" width="48%"/>
+  <img src="https://raw.githubusercontent.com/jaindhruv1923/grilli-fullstack-restaurant-reservation-system/main/preview_intro.png" width="48%"/>
+  <img src="https://raw.githubusercontent.com/jaindhruv1923/grilli-fullstack-restaurant-reservation-system/main/online_reservation.png" width="48%"/>
 </p>
 
 [![Repo](https://img.shields.io/badge/Repo-View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jaindhruv1923/grilli-fullstack-restaurant-reservation-system)
