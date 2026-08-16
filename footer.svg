@@ -1,0 +1,27 @@
+<svg width="1200" height="100" viewBox="0 0 1200 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradFooter" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1B1B2F">
+        <animate attributeName="stop-color" values="#1B1B2F;#22224A;#1B1B2F" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#2E2E52">
+        <animate attributeName="stop-color" values="#2E2E52;#3A3A6E;#2E2E52" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#C9971F">
+        <animate attributeName="stop-color" values="#C9971F;#E0B23A;#C9971F" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="100" fill="url(#bgGradFooter)"/>
+
+  <path fill="#0D1117" opacity="0.35">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="
+        M0,30 C150,0 300,60 450,30 C600,0 750,60 900,30 C1050,0 1150,20 1200,30 L1200,0 L0,0 Z;
+        M0,30 C150,60 300,0 450,30 C600,60 750,0 900,30 C1050,60 1150,40 1200,30 L1200,0 L0,0 Z;
+        M0,30 C150,10 300,50 450,20 C600,50 750,10 900,40 C1050,10 1150,50 1200,30 L1200,0 L0,0 Z;
+        M0,30 C150,0 300,60 450,30 C600,0 750,60 900,30 C1050,0 1150,20 1200,30 L1200,0 L0,0 Z
+      "/>
+  </path>
+</svg>

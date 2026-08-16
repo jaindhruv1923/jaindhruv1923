@@ -1,0 +1,46 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1B1B2F">
+        <animate attributeName="stop-color" values="#1B1B2F;#22224A;#1B1B2F" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#2E2E52">
+        <animate attributeName="stop-color" values="#2E2E52;#3A3A6E;#2E2E52" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#C9971F">
+        <animate attributeName="stop-color" values="#C9971F;#E0B23A;#C9971F" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bgGrad)"/>
+
+  <path fill="#0D1117" opacity="0.35">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="
+        M0,190 C150,220 300,160 450,190 C600,220 750,160 900,190 C1050,220 1150,180 1200,190 L1200,220 L0,220 Z;
+        M0,190 C150,160 300,220 450,190 C600,160 750,220 900,190 C1050,160 1150,200 1200,190 L1200,220 L0,220 Z;
+        M0,190 C150,200 300,170 450,200 C600,170 750,210 900,180 C1050,210 1150,170 1200,190 L1200,220 L0,220 Z;
+        M0,190 C150,220 300,160 450,190 C600,220 750,160 900,190 C1050,220 1150,180 1200,190 L1200,220 L0,220 Z
+      "/>
+  </path>
+
+  <path fill="#C9971F" opacity="0.12">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="
+        M0,205 C200,230 400,180 600,205 C800,230 1000,180 1200,205 L1200,220 L0,220 Z;
+        M0,205 C200,180 400,230 600,205 C800,180 1000,230 1200,205 L1200,220 L0,220 Z;
+        M0,205 C200,230 400,180 600,205 C800,230 1000,180 1200,205 L1200,220 L0,220 Z
+      "/>
+  </path>
+
+  <text x="600" y="112" font-family="Verdana, Geneva, sans-serif" font-size="60" font-weight="bold" fill="#E6E8EF" text-anchor="middle" letter-spacing="4" opacity="0">
+    DHRUV JAIN
+    <animate attributeName="opacity" from="0" to="1" dur="1.4s" begin="0.1s" fill="freeze"/>
+  </text>
+
+  <text x="600" y="150" font-family="Verdana, Geneva, sans-serif" font-size="18" fill="#E6E8EF" fill-opacity="0" text-anchor="middle">
+    Data Analyst &#183; AI &amp; Data Science Student
+    <animate attributeName="fill-opacity" from="0" to="0.85" dur="1.4s" begin="0.7s" fill="freeze"/>
+  </text>
+</svg>
