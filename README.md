@@ -240,10 +240,6 @@ Took a static restaurant landing-page template and turned it into an actual work
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jaindhruv1923&bg_color=0D1117&color=C9971F&line=C9971F&point=C9971F&area=true&area_color=C9971F&hide_border=true&custom_title=Contribution%20Activity" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=jaindhruv1923&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" />
-
 </div>
 
 <br/>
@@ -274,6 +270,7 @@ Took a static restaurant landing-page template and turned it into an actual work
 Data collection and structuring for NGO program work — scraping and organizing overseas-education-consultancy datasets across Delhi NCR and Telangana, then cleaning raw scrapes into usable, queryable records.
 
 **Business Development Intern** — Contentora Media *(Remote, Jul 2026 – present)*
+Reporting to the CEO & Founder. Researching and identifying potential clients, advertisers, and strategic partners; running lead generation through LinkedIn and email outreach; building pitch decks and partnership proposals; maintaining CRM data on prospects; and tracking outreach performance against the sales pipeline.
 
 <br/>
 
