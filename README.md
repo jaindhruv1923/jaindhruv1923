@@ -212,7 +212,7 @@ class DependencyImpactVisitor(ast.NodeVisitor):
 <div align="center">
 
 [![Repo](https://img.shields.io/badge/Repo-GitHub_Repository-181717?style=for-the-badge&logo=github)](https://github.com/jaindhruv1923/Project-Profitara-Retail-BI-Pipeline)
-[![Live Streamlit](https://img.shields.io/badge/Live-13--Page_Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://project-profitara-retail-bi-pipeline.streamlit.app/)
+[![Live Streamlit](https://img.shields.io/badge/Live-13--Page_Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://project-profitara-retail-bi-pipeline-kgg8tjm3e9umxkbhd86r3j.streamlit.app/)
 [![Power BI](https://img.shields.io/badge/Power_BI-Star_Schema-F59E0B?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/jaindhruv1923/Project-Profitara-Retail-BI-Pipeline)
 [![DuckDB SQL](https://img.shields.io/badge/SQL-42_Analytical_Queries-38BDF8?style=for-the-badge)](./docs/profitara/Profitara_Complete.sql)
 
@@ -252,7 +252,7 @@ Quick-commerce and D2C retail operations generate high transactional churn with 
 <div align="center">
 
 [![Repo](https://img.shields.io/badge/Repo-GitHub_Repository-181717?style=for-the-badge&logo=github)](https://github.com/jaindhruv1923/Project-Naukri-Saaf-Job-Listings-Analysis)
-[![Live Streamlit](https://img.shields.io/badge/Live-7--Tab_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://project-naukri-saaf-job-listings-analysis.streamlit.app/)
+[![Live Streamlit](https://img.shields.io/badge/Live-7--Tab_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://project-naukri-saaf-job-listings-analysis-n5wk7z29paqpjajni2q7.streamlit.app/)
 [![Chrome Extension](https://img.shields.io/badge/Extension-Manifest_V3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/jaindhruv1923/Project-Naukri-Saaf-Job-Listings-Analysis)
 [![SHAP](https://img.shields.io/badge/Explainability-TreeSHAP-10B981?style=for-the-badge)](https://github.com/jaindhruv1923/Project-Naukri-Saaf-Job-Listings-Analysis)
 
