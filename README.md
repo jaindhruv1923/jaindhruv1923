@@ -79,7 +79,8 @@ cd jaindhruv1923/docs && ls -la
 - [⚡ System Architecture & Closed-Loop Lifecycle](#-system-architecture--closed-loop-lifecycle)
 - [📊 Audit-Grade Proof of Work Matrix](#-audit-grade-proof-of-work-matrix)
 - [🏆 Flagship Production Systems](#-flagship-production-systems)
-  - [1. 🛡️ KAVACH — Security-Governed Agentic AI DevOps](#1-️-kavach--security-governed-agentic-ai-devops-platform)
+  - [1. 🎓 Digii Campus 2.0 (CollPoll) — Proactive Student Retention ERP](#1--digii-campus-20-collpoll--proactive-student-retention-erp)
+  - [2. 🛡️ KAVACH — Security-Governed Agentic AI DevOps](#2-️-kavach--security-governed-agentic-ai-devops-platform)
   - [2. 📊 Profitara — Retail BI & Customer Analytics Platform](#2--profitara--retail-bi--customer-analytics-platform)
   - [3. 🕵️ Naukri Saaf — Recruitment Intelligence & Ghost Job ML](#3-️-naukri-saaf--recruitment-intelligence--ghost-job-detection)
   - [4. 🌌 Archon Copilot — Enterprise AI IDE & Hybrid RAG Engine](#4--archon-copilot--enterprise-ai-ide--hybrid-rag-engine)
@@ -123,7 +124,8 @@ Every platform I architect follows a strict **5-stage closed loop**: from raw un
 
 | System | Primary Domain | Scale & Ground Data | Core Algorithmic Stack | Critical Empirical Metric | Hard Engineering Receipt | Artifacts in Repo |
 |:---|:---|:---|:---|:---:|:---|:---:|
-| **[KAVACH](#1-️-kavach--security-governed-agentic-ai-devops-platform)** | Agentic AI & DevSecOps | 4 Enterprise modules, 42-run security corpus | Deterministic Regex + AST Call-Graph + Qdrant | **164 / 164 Passing Tests** (100% CI pass) | Traverses Python AST to compute Blast Radius & block malicious execution | [Blueprint](./docs/kavach/KAVACH_AGENTIC_AI_MASTER_BLUEPRINT.md) · [Report](./docs/kavach/KAVACH_Final_Report.md) |
+| **[Digii Campus 2.0](https://github.com/jaindhruv1923/Internship_work)** | Enterprise EdTech ERP & Retention BI | 40 SPA Modules, 9 Schema Tables, 8 Benchmark Personas | Composite Risk Score (8 Vectors), Window Functions, CI Telemetry | **Sub-50ms Render Latency**, **100% CI Parity** | 19 SQL assessment queries + DPDP Act 2023 compliance ledger + live SPA | [Live Platform](https://jaindhruv1923.github.io/Internship_work/) · [Repo](https://github.com/jaindhruv1923/Internship_work) |
+| **[KAVACH](#2-️-kavach--security-governed-agentic-ai-devops-platform)** | Agentic AI & DevSecOps | 4 Enterprise modules, 42-run security corpus | Deterministic Regex + AST Call-Graph + Qdrant | **164 / 164 Passing Tests** (100% CI pass) | Traverses Python AST to compute Blast Radius & block malicious execution | [Blueprint](./docs/kavach/KAVACH_AGENTIC_AI_MASTER_BLUEPRINT.md) · [Report](./docs/kavach/KAVACH_Final_Report.md) |
 | **[Profitara](#2--profitara--retail-bi--customer-analytics-platform)** | Retail BI & Customer Analytics | 10,000 Indian Q-commerce transactions (₹66.95L) | Random Forest CLV, Logistic Regression Churn, Apriori | **R² = 0.930** (CLV), **AUC = 0.91** (Churn) | Star schema with 22 DAX measures + 42 DuckDB OLAP SQL CTE queries | [SQL Suite](./docs/profitara/Profitara_Complete.sql) · [PBIX](https://github.com/jaindhruv1923/Project-Profitara-Retail-BI-Pipeline) |
 | **[Naukri Saaf](#3-️-naukri-saaf--recruitment-intelligence--ghost-job-detection)** | Recruitment Intelligence & ML | 2,851 multi-portal scraped postings (LinkedIn, Indeed) | Snorkel Weak Supervision ($\kappa=0.589$), LightGBM, TreeSHAP | **ROC-AUC = 0.920** (Calibrated model) | Client-side Chrome MV3 extension scoring listings with zero network leaks | [BA Suite](./docs/naukri_saaf/) · [Repo](https://github.com/jaindhruv1923/Project-Naukri-Saaf-Job-Listings-Analysis) |
 | **[Archon Copilot](#4--archon-copilot--enterprise-ai-ide--hybrid-rag-engine)** | Enterprise AI IDE & Hybrid RAG | 21 OpenAPI / Markdown files (103 chunks, 26 tasks) | BM25 Lexical + BGE Dense + Cross-Encoder Reranking | **71.15% Correctness** (Gemma-3), **100% Code Pass** | Empirical 78-pair benchmark evaluated via Local CoT LLM Judge | [Lab Report](./docs/archon/LAB4_REPORT.md) · [Eval JSON](./docs/archon/evaluation_report.json) |
@@ -138,7 +140,33 @@ Every platform I architect follows a strict **5-stage closed loop**: from raw un
 
 ---
 
-### 1. 🛡️ KAVACH — Security-Governed Agentic AI DevOps Platform
+### 1. 🎓 Digii Campus 2.0 (CollPoll) — Proactive Student Retention ERP & BI Platform
+> **Enterprise Higher-Ed ERP · 40-Module Interactive SPA · 19 Relational SQL Solvers · DPDP Act 2023 Compliance · Daily CI Telemetry**
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live_Platform-Interactive_SPA-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jaindhruv1923.github.io/Internship_work/)
+[![Repository](https://img.shields.io/badge/GitHub-Internship__work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaindhruv1923/Internship_work)
+[![Daily CI Telemetry](https://img.shields.io/badge/CI%2FCD-Passing-10B981?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/jaindhruv1923/Internship_work/actions)
+[![DPDP Act 2023](https://img.shields.io/badge/Compliance-DPDP_Act_2023-F59E0B?style=for-the-badge)](https://github.com/jaindhruv1923/Internship_work/blob/main/docs/DPDP_ACT_2023_COMPLIANCE_DOSSIER.md)
+[![SQL Assessment](https://img.shields.io/badge/SQL-19_Solutions-38BDF8?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/jaindhruv1923/Internship_work/tree/main/sql_assessment)
+
+</div>
+
+#### The Problem
+Modern higher education campuses struggle with fragmented operational silos: attendance systems, fee records, and learning management systems (LMS) exist independently. High-risk students at risk of dropping out or failing are typically only identified after semester examinations have already concluded—when remedial intervention is too late.
+
+#### The Solution & Architecture
+- **8-Vector Risk Scoring Engine (Composite Risk Score, CRS):** Real-time synthesis of attendance deficits, grade trajectories, assignment backlogs, fee arrears, and disciplinary notices into calibrated risk tiers (Low, Moderate, High, Critical).
+- **40-Module Enterprise Single Page Application:** Client-side glassmorphic dashboard featuring cohort risk heatmaps, student 360-degree dossiers, financial forecast simulators, role switching (Dean, HOD, Faculty, Mentor), and an executive presentation storyboard.
+- **Production Relational Data Layer:** 19 optimized MySQL 8 SQL scripts querying 9 relational tables (`students`, `enrollments`, `courses`, `assessments`, `attendance`, `fees`, `risk_scores`, `faculty`, `departments`).
+- **DPDP Act 2023 Compliance & Cryptographic Telemetry:** Granular consent state machine, student data minimization protocols, and daily scheduled GitHub Actions (`daily_platform_telemetry.yml`) auditing live endpoints and computing cryptographic SHA-256 state digests.
+
+<br/>
+
+---
+
+### 2. 🛡️ KAVACH — Security-Governed Agentic AI DevOps Platform
 > **Enterprise Guardrails · AST Blast-Radius Analysis · Qdrant Vector RAG · 164/164 Passing Tests**
 
 <p align="center">
@@ -201,7 +229,7 @@ class DependencyImpactVisitor(ast.NodeVisitor):
 
 <br/>
 
-### 2. 📊 Profitara — Retail BI & Customer Analytics Platform
+### 3. 📊 Profitara — Retail BI & Customer Analytics Platform
 > **10,000 Indian Q-Commerce Orders · CLV Regressor (R²=0.930) · Churn AUC 0.91 · DuckDB SQL Lab**
 
 <p align="center">
@@ -241,7 +269,7 @@ Quick-commerce and D2C retail operations generate high transactional churn with 
 
 <br/>
 
-### 3. 🕵️ Naukri Saaf — Recruitment Intelligence & Ghost Job Detection
+### 4. 🕵️ Naukri Saaf — Recruitment Intelligence & Ghost Job Detection
 > **2,851 Scraped Job Ads · Weak Supervision ($\kappa=0.589$) · LightGBM (AUC=0.920) · Chrome MV3 Extension**
 
 <p align="center">
@@ -281,7 +309,7 @@ Job seekers waste hundreds of hours applying to "ghost listings" — job posting
 
 <br/>
 
-### 4. 🌌 Archon Copilot — Enterprise AI IDE & Hybrid RAG Engine
+### 5. 🌌 Archon Copilot — Enterprise AI IDE & Hybrid RAG Engine
 > **BM25 Lexical + BGE Dense + Cross-Encoder Rerank · 78 Eval Pairs · Local CoT Judge · Next.js 14 Studio**
 
 <p align="center">
@@ -320,7 +348,7 @@ Standard Vector RAG copilots suffer from semantic drift and keyword mismatch whe
 
 <br/>
 
-### 5. 🍝 Grilli — Full-Stack Restaurant Reservation Platform
+### 6. 🍝 Grilli — Full-Stack Restaurant Reservation Platform
 > **Node.js · Express REST API · MongoDB Atlas Persistence · Real-Time Anti-Collision Booking**
 
 <p align="center">
@@ -347,7 +375,7 @@ Took a static template with broken form semantics and built a fully authenticate
 
 <br/>
 
-### 6. 🎮 KidLearn — Gamified EdTech Habit Dashboard
+### 7. 🎮 KidLearn — Gamified EdTech Habit Dashboard
 > **Vanilla ES6+ · HTML5 Canvas API · 21 Achievement Badges · LocalStorage Reactive State**
 
 <p align="center">
@@ -415,6 +443,14 @@ All 10 industry certifications are verified and stored locally in this repositor
 ![Divider](./divider.svg)
 
 ## 💼 Professional Experience & Internships
+
+### 🎓 Product & Data Architecture Intern — **CollPoll (Digii Campus)**
+*Bengaluru, India (Hybrid) &bull; Nov 2026 – Present*
+- Spearheaded the design and delivery of the Digii Campus 2.0 Proactive Student Retention & Early Intervention ERP module.
+- Engineered an 8-vector multi-modal Composite Risk Score (CRS) engine synthesizing attendance deficits, continuous evaluation marks, fee arrears, and LMS engagement indicators.
+- Architected a 40-module interactive single-page application (SPA) with dark-mode glassmorphic design system, role switching, and sub-50ms render latency.
+- Authored and benchmarked 19 production-grade MySQL 8 relational queries across 9 core institutional schema tables with zero unindexed scans.
+- Implemented DPDP Act 2023 compliance architecture with granular student consent lifecycles and automated daily GitHub Actions CI/CD telemetry auditing.
 
 ### 📊 Data Analyst Intern — **Udaghosh Social Welfare Society**
 *Remote &bull; July 2026 – Present*
